@@ -6,7 +6,7 @@ Dubai Eats is a food blog built using WordPress, hosted on an Amazon EC2 instanc
 
 Server Link- https://www.umamakhan.xyz
 Video Explainer- https://drive.google.com/file/d/1J-xKGH0wYwOXrYknCuOleTkxIITlLEqU/view?usp=share_link
-Documentation- ./Umama_A2_35405318.pdf
+Documentation- Umama_A2_35405318.pdf
 
 
 Development Timeline:
